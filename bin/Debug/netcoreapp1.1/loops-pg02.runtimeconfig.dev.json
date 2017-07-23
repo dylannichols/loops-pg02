@@ -1,0 +1,7 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/dylan/.nuget/packages"
+    ]
+  }
+}

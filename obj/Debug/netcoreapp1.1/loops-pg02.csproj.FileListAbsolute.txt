@@ -1,0 +1,8 @@
+/home/dylan/School/Prog/Repos/loops-pg02/bin/Debug/netcoreapp1.1/loops-pg02.deps.json
+/home/dylan/School/Prog/Repos/loops-pg02/bin/Debug/netcoreapp1.1/loops-pg02.runtimeconfig.json
+/home/dylan/School/Prog/Repos/loops-pg02/bin/Debug/netcoreapp1.1/loops-pg02.runtimeconfig.dev.json
+/home/dylan/School/Prog/Repos/loops-pg02/obj/Debug/netcoreapp1.1/loops-pg02.AssemblyInfo.cs
+/home/dylan/School/Prog/Repos/loops-pg02/bin/Debug/netcoreapp1.1/loops-pg02.dll
+/home/dylan/School/Prog/Repos/loops-pg02/bin/Debug/netcoreapp1.1/loops-pg02.pdb
+/home/dylan/School/Prog/Repos/loops-pg02/obj/Debug/netcoreapp1.1/loops-pg02.dll
+/home/dylan/School/Prog/Repos/loops-pg02/obj/Debug/netcoreapp1.1/loops-pg02.pdb
